@@ -8,6 +8,7 @@ Repo for skills used in my personal env.
 |---|---|
 | `review-mine` | Reviews my own uncommitted work and branch commits, and lists findings to fix locally. |
 | `review-pr` | Reviews someone else's PR, then posts the findings I pick as a GitHub review. |
+| `fix-pr-issues` | Walks me through the open comments on my PR (fix, reply or ignore each), then commits, pushes, replies and resolves merge conflicts with the base. |
 | `_shared` | Not a skill. Holds `review-method.md`, the review method both review skills load. |
 
 ## Install
